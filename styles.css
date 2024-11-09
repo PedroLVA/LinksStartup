@@ -1,0 +1,35 @@
+body {
+    background-color: #f8f9fa;
+}
+.link-card {
+    margin: 20px auto;
+    padding: 20px;
+    max-width: fit-content;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+.link-card h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+.link-card a {
+    display: block;
+    font-size: 18px;
+    color: #ffffff;
+    background-color: #FD853A;
+    padding: 10px 0;
+    margin: 10px 0;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.link-card a:hover {
+    background-color: #e67834;
+}
+
+.orange-background{
+    height: 45vh;
+    background-color:#FFEAD5;
+  }
+  .background{
+    z-index: -10;
+  }
