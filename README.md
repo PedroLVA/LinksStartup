@@ -1,2 +1,2 @@
 ﻿# LinksStartup
- Links para o projeto de startup one
+ Links para o projeto de startup ono
